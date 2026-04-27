@@ -27,8 +27,23 @@ Designed and implemented a modular LeadOps automation system with:
 - Scalable system-level thinking  
 
 ---
+## 2. TWC AI Planning Agent · Prototype
 
-## 2. AI Agent Experiments
+**Repository:**  
+https://github.com/littlemissmuffins/Hitaeshi-Sehgal-Built-for-TWC
+A working multi-agent AI workflow built specifically for The Wedding Company (TWC) — automating the three most manual ops steps in early-stage wedding planning: intake structuring, vendor matching, and follow-up generation.
+
+Built as a proof-of-concept by Hitaeshi Sehgal (CS, BITS Pilani) in response to TWC's AI Engineering Wizard internship post.
+**What It Does**
+Most wedding planning companies handle new couples like this:
+
+Onboarding call → someone takes notes
+Planner manually figures out which vendors fit
+Planner writes 4–5 individual outreach emails
+Repeat for every new couple
+
+That's 3–4 hours of ops work per couple. This pipeline does it in ~20 seconds.
+## 3. AI Agent Experiments
 
 **Repository:**  
 https://github.com/littlemissmuffins/GENAI-AI-AGENTS--WIT
@@ -47,7 +62,7 @@ Includes:
 
 ---
 
-## 3. Data Analysis — Credit Risk Study
+## 4. Data Analysis — Credit Risk Study
 
 **Repository:**  
 https://github.com/littlemissmuffins/project-1
